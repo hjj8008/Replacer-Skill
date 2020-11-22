@@ -8,11 +8,11 @@
 
 [x] 自动连发 [setInterval()]
 
-[x] 移动施法
+[x] 取消 技能后摇 [S_ACTION_STAGE]
 
 [x] 弹道 最短射程 [C_PLAYER_LOCATION]
 
-[x] 取消 技能后摇 [S_ACTION_STAGE]
+[x] 移动-循环施法 / 移动-打断施法
 
 # Replacer-Skill [完整版]
 
