@@ -1,4 +1,18 @@
-# Replacer-Skill
+# Replacer-Skill [尝鲜版]
+
+- 魔导师-普通攻击(无CD) [替换为->] 爆裂球-魔力强化版 (4球)(无CD)
+
+[x] 爆裂球 锁定全屏NPC
+
+[x] 自动连发
+
+[x] 移动施法
+
+[x] 弹道 最短射程
+
+[x] 取消 技能后摇
+
+# Replacer-Skill [完整版]
 
 P1: https://www.bilibili.com/video/BV1Br4y1w7xG/
 
