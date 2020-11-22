@@ -1,18 +1,18 @@
 # Replacer-Skill [尝鲜版]
 
-[√] 魔导师-普通攻击(无CD) [替换为->] 爆裂球-魔力强化版 (4球)(无CD)
+[√] 魔导师-普通攻击(无CD) [替换为->] 爆裂球-魔力强化版 (4球)(无CD) [C_START_INSTANCE_SKILL]
 
-[x] 爆裂球 锁定全屏NPC
+[x] 爆裂球 锁定全屏NPC [C_HIT_USER_PROJECTILE] [S_SPAWN_NPC] [S_NPC_LOCATION] [S_DESPAWN_NPC]
 
-[x] 副本只锁定boss(避免凯尔打到 buff水晶)
+[x] 副本只锁定boss(避免凯尔打到 buff水晶) [S_BOSS_GAGE_INFO]
 
-[x] 自动连发
+[x] 自动连发 [setInterval()]
 
 [x] 移动施法
 
-[x] 弹道 最短射程
+[x] 弹道 最短射程 [C_PLAYER_LOCATION]
 
-[x] 取消 技能后摇
+[x] 取消 技能后摇 [S_ACTION_STAGE]
 
 # Replacer-Skill [完整版]
 
