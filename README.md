@@ -14,6 +14,8 @@
 
 [x] 移动-循环施法 / 移动-打断施法
 
+[x] 新增自定义 全屏锁定 半径大小
+
 # Replacer-Skill [完整版]
 
 P1: https://www.bilibili.com/video/BV1Br4y1w7xG/
@@ -33,6 +35,12 @@ P4: https://www.bilibili.com/video/BV1154y1r7JZ/
 ![screenshot](https://github.com/tera-mod/Replacer-Skill-Alpha/blob/main/sample/03.png)
 
 ![screenshot](https://github.com/tera-mod/Replacer-Skill-Alpha/blob/main/sample/04.png)
+
+---
+
+自定义 [全屏锁定] 半径
+
+P5: https://www.bilibili.com/video/bv1Kv411b79J
 
 ---
 
