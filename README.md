@@ -44,6 +44,8 @@
 
 [X] 无敌模式 - [觉醒气息] 技能实现 [开启/关闭]
 
+- 大型BOSS可能需要 自定义更高的高度
+
 # Replacer-Skill [完整版 视频演示]
 
 # https://www.bilibili.com/video/BV1Jv411b7hy/
