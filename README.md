@@ -14,9 +14,13 @@
 
 [x] 移动-循环施法 / 移动-打断施法
 
-[x] 新增自定义 全屏锁定 半径大小
+[x] 自定义 全屏锁定 半径大小
 
-# Replacer-Skill [完整版]
+[X] 无敌模式 - 觉醒气息技能开启/关闭
+
+# Replacer-Skill [完整版 视频演示]
+
+# https://www.bilibili.com/video/BV1Jv411b7hy/
 
 P1: https://www.bilibili.com/video/BV1Br4y1w7xG/
 
