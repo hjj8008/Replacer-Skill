@@ -16,13 +16,13 @@
 
 [x] 自定义 全屏锁定 半径大小
 
-[X] 无敌模式 - 觉醒气息技能开启/关闭
+[X] 无敌模式 - [觉醒气息] 技能实现 [开启/关闭]
 
 # Replacer-Skill [完整版 视频演示]
 
 # https://www.bilibili.com/video/BV1Jv411b7hy/
 
-P1: https://www.bilibili.com/video/BV1Br4y1w7xG/
+P1: https://www.bilibili.com/video/BV1Br4y1w7xG/  [连发延迟]
 
 P2: https://www.bilibili.com/video/BV1Rv41167gT/  [移动连发 全屏锁定]
 
@@ -34,7 +34,7 @@ P3: https://www.bilibili.com/video/BV1pA411j7ho/
 
 ![screenshot](https://github.com/tera-mod/Replacer-Skill-Alpha/blob/main/sample/02.png)
 
-P4: https://www.bilibili.com/video/BV1154y1r7JZ/
+P4: https://www.bilibili.com/video/BV1154y1r7JZ/  [移除弹道后 对比测试]
 
 ![screenshot](https://github.com/tera-mod/Replacer-Skill-Alpha/blob/main/sample/03.png)
 
@@ -42,9 +42,7 @@ P4: https://www.bilibili.com/video/BV1154y1r7JZ/
 
 ---
 
-自定义 [全屏锁定] 半径
-
-P5: https://www.bilibili.com/video/bv1Kv411b79J
+P5: https://www.bilibili.com/video/bv1Kv411b79J  [自定义 全屏锁定 半径]
 
 ---
 
