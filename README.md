@@ -46,6 +46,6 @@ P5: https://www.bilibili.com/video/bv1Kv411b79J  [自定义 全屏锁定 半径]
 
 ---
 
-# Credits
+# 更多参考
 
 https://github.com/Ruuv1337/RTP7 | Video: https://yadi.sk/i/zwKGV3BHGVrXDQ
